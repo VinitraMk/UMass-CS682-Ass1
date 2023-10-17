@@ -1,0 +1,5 @@
+*.zip
+/cifar-10-batches-py
+/venv
+**/**/__pycache__/
+**/**/datasets
